@@ -1,0 +1,19 @@
+.banner {
+  height: 500px;
+  width: 100%;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+.banner p {
+  opacity: 0.8;
+  font-weight: lighter;
+  margin-bottom: 30px;
+}
